@@ -1,4 +1,3 @@
-# ```markdown
 
 # \# Statistical Theory Course Archive
 
