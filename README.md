@@ -42,7 +42,6 @@ This directory contains solved exercises and assignments covering statistical es
 | **University** | TU Dortmund University |
 | **Semester** | Winter Semester 2025/26 |
 | **Course** | Statistical Theory |
-| **Lecturers** | Prof. Dr. Carsten Jentsch and M. Sc. Daniel Dzikowski |
 
 ---
 
