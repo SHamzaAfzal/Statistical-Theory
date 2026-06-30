@@ -39,7 +39,7 @@ This directory contains solved exercises and assignments covering statistical es
 
 | Field | Details |
 |-------|---------|
-| **University** | TU Dortmund University |
+| **University** | TU Dortmund |
 | **Semester** | Winter Semester 2025/26 |
 | **Course** | Statistical Theory |
 
